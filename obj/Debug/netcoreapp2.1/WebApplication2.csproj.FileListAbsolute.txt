@@ -1,0 +1,14 @@
+C:\Users\aleve\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.deps.json
+C:\Users\aleve\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.runtimeconfig.json
+C:\Users\aleve\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.runtimeconfig.dev.json
+C:\Users\aleve\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.dll
+C:\Users\aleve\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.csprojAssemblyReference.cache
+C:\Users\aleve\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\aleve\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\aleve\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\aleve\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\aleve\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.AssemblyInfo.cs
+C:\Users\aleve\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\aleve\source\repos\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.1\WebApplication2.pdb
+C:\Users\aleve\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.dll
+C:\Users\aleve\source\repos\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.1\WebApplication2.pdb
